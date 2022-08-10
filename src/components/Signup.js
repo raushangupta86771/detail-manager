@@ -10,7 +10,7 @@ const Signup = (props) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const { name, email, password } = credentials;
-    const response = await fetch('https://details-matcher.herokuapp.com/m/details-matcher.git/api/auth/createUser', {
+    const response = await fetch('https://details-matcher.herokuapp.com/details-matcher.git/api/auth/createUser', {
       method: 'POST',
       headers: {
         "Content-Type": "application/json"
