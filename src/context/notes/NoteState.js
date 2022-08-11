@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const NoteState = (props) => {
     //local note api
-    const host = "https://details-matcher.herokuapp.com/details-matcher.git";
+    const host = "https://details-matcher.herokuapp.com";
     const notesInitial = []; //initially all notes is empty. for getting all notes we will use getNotes();
     const userInit = [];
     const searchedInitial = [];
