@@ -1,14 +1,48 @@
 # Getting Started with Create React App
 
-![image](https://user-images.githubusercontent.com/97835784/177641136-3fa38fc9-af2b-40e0-ad1a-4ab0286490f4.png)
-![image](https://user-images.githubusercontent.com/97835784/177641762-dd884c98-ab51-424e-b473-bf3948c94f4a.png)
-![image](https://user-images.githubusercontent.com/97835784/177641903-f7fd3557-5bd7-4548-b775-e2bf4eb533b4.png)
-![image](https://user-images.githubusercontent.com/97835784/177642153-f2ce8170-cc28-4362-b99c-78025811ab57.png)
-![image](https://user-images.githubusercontent.com/97835784/177642400-5ba9ac70-5b79-4c1c-a9a5-58ebec158134.png)
-![image](https://user-images.githubusercontent.com/97835784/177642459-26907efb-a72b-4fd5-ac2d-4bc88d42869f.png)
-![image](https://user-images.githubusercontent.com/97835784/177642576-99a4c749-3b0a-496c-a36a-52e120adcd6f.png)
-![image](https://user-images.githubusercontent.com/97835784/177642833-283f7ebe-8d12-4dda-8ce3-6335eadfa199.png)
-![image](https://user-images.githubusercontent.com/97835784/177642907-6eb5f973-859c-4ba6-af02-33f094b7a989.png)
+### `Website deployed at (Live website)` at https://hilarious-panda-37dae0.netlify.app/
+
+### `npm run both`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Signup page
+![image](https://user-images.githubusercontent.com/97835784/184085616-0be79340-9647-4611-b34d-5172b7f3e2d8.png)
+
+Login Page
+![image](https://user-images.githubusercontent.com/97835784/184085738-03c60d03-d0f6-4505-90b7-4b71f95dfd9a.png)
+
+Home page
+![image](https://user-images.githubusercontent.com/97835784/184085805-8d91ec39-85df-4256-b88f-97ba2170b24c.png)
+
+Add detail
+![image](https://user-images.githubusercontent.com/97835784/184086032-14394d74-803b-4384-b8b3-987d7b48dc78.png)
+![image](https://user-images.githubusercontent.com/97835784/184086096-838b12ab-c405-46dc-9ec9-de2fd8be934d.png)
+![image](https://user-images.githubusercontent.com/97835784/184086126-c9c20a01-5e6e-488a-adc9-1eaad107af0d.png)
+
+Your details
+![image](https://user-images.githubusercontent.com/97835784/184086251-084821af-e37b-4fa9-9a3e-b7f84ef34a47.png)
+
+Edit any detail
+![image](https://user-images.githubusercontent.com/97835784/184086394-97d3d8e4-fbc4-460a-8c45-2389f40d77bb.png)
+![image](https://user-images.githubusercontent.com/97835784/184086456-23d8c8b6-0a19-420f-8c7a-3ac9b5be5b70.png)
+
+Updated detail
+![image](https://user-images.githubusercontent.com/97835784/184086507-a925ba8f-a3f7-48e6-9ea7-0f2fcf371a75.png)
+
+delete and update icon
+![image](https://user-images.githubusercontent.com/97835784/184086592-a0012b2a-941b-46d6-a94f-45804f4eb37b.png)
+
+Search detail by name
+![image](https://user-images.githubusercontent.com/97835784/184086741-a7c9b3f1-b851-4e54-835f-f93604b8255b.png)
+
+Your Info
+![image](https://user-images.githubusercontent.com/97835784/184086822-4e37729d-2ed9-4e4c-adad-49a98ce3412b.png)
+
+![image](https://user-images.githubusercontent.com/97835784/184095864-816c81b9-478f-48d0-acf0-3c94d9566585.png)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
